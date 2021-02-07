@@ -8,4 +8,4 @@ Built using HTML, CSS and Vanilla JS
 
 ## Demo
 
-To demo this game click (https://armedcor.github.io/Guess_my_number/)[here]
+To demo this game click [here](hehttps://armedcor.github.io/Guess_my_number/)
